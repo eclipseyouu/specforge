@@ -1,0 +1,10 @@
+[
+  {"id": "T-01", "covers": ["R-01"], "steps": [["Equipment", "view"]]},
+  {"id": "T-02", "covers": ["R-02"], "steps": [["Equipment", "reserve"]]},
+  {"id": "T-03", "covers": ["R-03"], "steps": [["Equipment", "reserve"], ["Equipment", "issue"]]},
+  {"id": "T-04", "covers": ["R-04"], "steps": [["Equipment", "reserve"], ["Equipment", "issue"], ["Equipment", "return"]]},
+  {"id": "T-05", "covers": ["R-11"], "steps": [["Equipment", "break"], ["Equipment", "issue"]]},
+  {"id": "T-06", "covers": ["R-18"], "steps": [["Equipment", "reserve"], ["Equipment", "issue"], ["Equipment", "return"]]},
+  {"id": "T-07", "covers": ["R-19"], "steps": [["Equipment", "reserve"], ["Equipment", "issue"]]},
+  {"id": "T-08", "covers": ["R-02", "R-13"], "steps": [["Equipment", "reserve"]]}
+]

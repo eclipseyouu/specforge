@@ -1,0 +1,5 @@
+{
+  "id": "CR-001",
+  "description": "Change fine calculation threshold",
+  "changed_reqs": ["R-07", "R-18", "R-19"]
+}

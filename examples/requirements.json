@@ -1,0 +1,22 @@
+[
+  {"id": "R-01", "text": "Employee can view equipment list"},
+  {"id": "R-02", "text": "Employee can reserve equipment"},
+  {"id": "R-03", "text": "Manager can issue equipment"},
+  {"id": "R-04", "text": "Employee can return equipment"},
+  {"id": "R-05", "text": "Admin can add new equipment"},
+  {"id": "R-06", "text": "Admin can mark equipment for maintenance"},
+  {"id": "R-07", "text": "System calculates overdue fine"},
+  {"id": "R-08", "text": "Reservation expires after 24h"},
+  {"id": "R-09", "text": "Manager approval required for expensive items"},
+  {"id": "R-10", "text": "Audit log records all actions"},
+  {"id": "R-11", "text": "Cannot issue broken equipment"},
+  {"id": "R-12", "text": "Cannot reserve in the past"},
+  {"id": "R-13", "text": "Employee cannot exceed equipment limit"},
+  {"id": "R-14", "text": "Cannot return equipment by another employee"},
+  {"id": "R-15", "text": "Cannot cancel issued reservation"},
+  {"id": "R-16", "text": "Cannot write-off without inventory"},
+  {"id": "R-17", "text": "Reservation for 0 days is rejected"},
+  {"id": "R-18", "text": "Return at 23:59:59 of due date is on time"},
+  {"id": "R-19", "text": "Fine for 1 minute overdue is 1 day rate"},
+  {"id": "R-20", "text": "Limit equals current count is allowed"}
+]
